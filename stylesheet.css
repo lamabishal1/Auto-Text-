@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    font-family: sans-serifs;
+}
+p{
+    color: aqua;
+    font-weight: 700;
+    font-size: 100px;
+}
+.js{
+    color: rgb(169, 85, 224);
+}
+.typed-text{
+    color: lightgreen;
+}
